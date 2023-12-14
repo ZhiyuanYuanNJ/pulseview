@@ -1,7 +1,7 @@
 /*
  * This file is part of the PulseView project.
  *
- * Copyright (C) 2013 Adam Reichold
+ * Copyright (C) 2023 lzy
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
